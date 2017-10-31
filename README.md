@@ -4,4 +4,4 @@ Tested with PaperSpigot / Spigot 1.7.10 - 1.8 (Protocol Hack), PaperSpigot / Spi
 
 # How to use?
 I provided an example in this reposity for a deeper understanding.
-(Go to "src/example/de/beproud/sbexample/")
+(Go to "example/de/beproud/sbexample/")
